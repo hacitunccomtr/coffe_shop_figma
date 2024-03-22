@@ -1,2 +1,6 @@
 # coffe_shop_figma
- coffe shop figma tasarim flutter calismasi
+ Flutter öğrenme yolunda geliştirdiğim tüm projeleri sizlerle paylaşmak istiyorum.
+
+ Figma tasarımına sahip olduğum coffe shop tasarımını flutter ile işlevsel bir hale getirmeyi hedefliyorum.
+
+ 
